@@ -1,0 +1,56 @@
+
+@font-face {
+    font-family:Goldman Sans Thin;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-thin.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-thin.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Light;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-light.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-light.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Italic;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-italic.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-italic.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Medium;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Medium Italic;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium-italic.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium-italic.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Bold;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Bold Italic;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-italic.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-italic.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Black;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-black.woff2") format("woff2"),
+    url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-black.woff") format("woff");
+}
+@font-face {
+    font-family:Goldman Sans Variable;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-variable.woff2") format("woff2");
+    font-weight:1 999;
+}
+@font-face {
+    font-family:Goldman Sans Variable Italic;
+    src:url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-variable-italic.woff2") format("woff2");
+    font-weight:1 999;
+}

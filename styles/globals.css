@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Goldman Sans;
+    src: url("../public/GoldmanSans_W_Rg.woff2") format("woff2") 
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family:Goldman Sans;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
